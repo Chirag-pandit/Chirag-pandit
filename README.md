@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java ds, js
 - 💞️ I’m looking to collaborate on backend coding
 - 📫 How to reach me email- chiragpandit884@gmail.com
-- 😄 Pronouns: male
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: the first programmer was a women...
 
 <!---

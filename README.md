@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR3NXJ3OWF1OWF4ZnBxbWF6ZDdwbXBqcWN6YnJ0YmRyYjdqd2JpZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
 <h1 align="center">
@@ -108,7 +108,7 @@
         <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
         <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
         <p><i>March 21-22, 2025</i></p>
-        <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Code-e-manipal Certificate" width="100%" />
+        <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/certificates/code-e-manipal.jpg" alt="Code-e-manipal Certificate" width="100%" />
       </td>
       <td align="center" width="50%">
         <img src="https://img.icons8.com/color/48/000000/group-of-people.png" width="50" height="50"/>
@@ -117,7 +117,7 @@
         <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
         <p>Organized by Geek Room and Sahyog: Care of You</p>
         <p><i>March 1, 2025</i></p>
-        <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Code Seva Certificate" width="100%" />
+        <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/certificates/code-seva.jpg" alt="Code Seva Certificate" width="100%" />
       </td>
     </tr>
     <tr>

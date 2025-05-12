@@ -297,7 +297,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294018-1a7d1c2f-24da-4829-9b59-2cf72d41d1c1.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
         <h3>Code-e-manipal</h3>
         <p><b>First Place Winner 🏆</b></p>
         <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
@@ -306,7 +306,7 @@
         <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal.jpg-vTRsvHApQBHwYXprWIPf2e4yT5aZ45.jpeg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
         <h3>Code Seva Hackathon</h3>
         <p><b>Top 15 Teams 🌟</b></p>
         <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
@@ -317,7 +317,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
         <h3>Code Kshetra 2.0</h3>
         <p><b>Participant</b> in India's biggest hackathon</p>
         <p>Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
@@ -325,7 +325,7 @@
         <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20kshetra.jpg-qyqUMrUyXKdSxZd1ivPocEVwmHs92t.jpeg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
         <h3>Code Nakshatra</h3>
         <p><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
         <p>TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
@@ -577,5 +577,3 @@
   <p>Made with ❤️ by Chirag Pandit</p>
   <p><em>Last updated: May 2025</em></p>
 </div>
-```
-

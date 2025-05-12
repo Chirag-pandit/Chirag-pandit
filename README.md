@@ -1,31 +1,39 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+Chirag+Pandit's+GitHub+Profile;Full+Stack+Developer+%7C+JavaScript+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-  
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Pandit;Full+Stack+Developer;JavaScript+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-  </div>
-  
-  <div>
-    <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/followers/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
-    <a href="https://github.com/Chirag-pandit?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14+-style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
-    <img src="https://komarev.com/ghpvc/?username=Chirag-pandit&style=for-the-badge&color=6366F1&labelColor=0D1117">
-    <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/stars/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
-  </div>
 </div>
 
+<p align="center">
+  <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/followers/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
+  <a href="https://github.com/Chirag-pandit?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14+-style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
+  <img src="https://komarev.com/ghpvc/?username=Chirag-pandit&style=for-the-badge&color=6366F1&labelColor=0D1117">
+  <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/stars/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
+</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
+
+<!-- ANIMATED GREETING -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
+</h1>
 
 <!-- ABOUT ME -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> 
   About Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p>
   Hi there! I'm <b>Chirag Pandit</b>, an enthusiastic software developer with a passion for creating clean, efficient, and user-friendly applications. My journey in tech is driven by curiosity and the desire to solve real-world problems through code.
@@ -33,33 +41,33 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" /> 
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> 
     I'm currently working on <b>Web Development Projects</b>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" width="20" /> 
+    <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="20" /> 
     I'm currently learning <b>Java DSA, JavaScript Advanced Concepts, CI/CD</b>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="20" /> 
+    <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="20" /> 
     I'm looking to collaborate on <b>Backend Coding</b>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20" /> 
+    <img src="https://user-images.githubusercontent.com/74038190/216121986-347a3a9e-77d1-4420-bd89-9b6bfa3a1f50.png" width="20" /> 
     Ask me about <b>React, JavaScript, Next.js, Node.js</b>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="20" /> 
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" /> 
     How to reach me: <b>chiragpandit884@gmail.com</b>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="20" /> 
+    <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="20" /> 
     Fun fact: <b>The first programmer was a woman - Ada Lovelace</b>
   </li>
 </ul>
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
@@ -67,14 +75,14 @@
     <tr>
       <td align="center" width="50%">
         <h3>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /> 
+          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> 
           Interests
         </h3>
         <p>Web Development, Data Structures & Algorithms, API Design</p>
       </td>
       <td align="center" width="50%">
         <h3>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20" /> 
+          <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="20" /> 
           Goal
         </h3>
         <p>To become a proficient full-stack developer and contribute to open source</p>
@@ -83,14 +91,14 @@
     <tr>
       <td align="center" width="50%">
         <h3>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /> 
+          <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="20" /> 
           Learning
         </h3>
         <p>Java DSA, JavaScript Advanced Concepts, CI/CD</p>
       </td>
       <td align="center" width="50%">
         <h3>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20" /> 
+          <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" /> 
           Soft Skills
         </h3>
         <p>Leadership, Collaboration, Problem-solving, Curious Learner</p>
@@ -101,10 +109,19 @@
 
 <!-- TECH STACK -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
   Tech Stack
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-a83c-4a0f-a6c4-33e7b7f6882a.gif" width="100">
+</div>
 
 <details open>
   <summary><h3>Languages</h3></summary>
@@ -147,11 +164,81 @@
   </p>
 </details>
 
+<!-- SKILL BARS -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
+  Skills Proficiency
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          JavaScript
+          <div style="display: flex; align-items: center;">
+            <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 10px;">
+              <div style="width: 95%; height: 100%; background-color: #6366F1; border-radius: 10px;"></div>
+            </div>
+            <span style="margin-left: 10px;">95%</span>
+          </div>
+          <br>
+          React.js
+          <div style="display: flex; align-items: center;">
+            <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 10px;">
+              <div style="width: 90%; height: 100%; background-color: #6366F1; border-radius: 10px;"></div>
+            </div>
+            <span style="margin-left: 10px;">90%</span>
+          </div>
+          <br>
+          Next.js
+          <div style="display: flex; align-items: center;">
+            <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 10px;">
+              <div style="width: 85%; height: 100%; background-color: #6366F1; border-radius: 10px;"></div>
+            </div>
+            <span style="margin-left: 10px;">85%</span>
+          </div>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          Node.js
+          <div style="display: flex; align-items: center;">
+            <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 10px;">
+              <div style="width: 85%; height: 100%; background-color: #6366F1; border-radius: 10px;"></div>
+            </div>
+            <span style="margin-left: 10px;">85%</span>
+          </div>
+          <br>
+          Express.js
+          <div style="display: flex; align-items: center;">
+            <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 10px;">
+              <div style="width: 80%; height: 100%; background-color: #6366F1; border-radius: 10px;"></div>
+            </div>
+            <span style="margin-left: 10px;">80%</span>
+          </div>
+          <br>
+          MongoDB
+          <div style="display: flex; align-items: center;">
+            <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 10px;">
+              <div style="width: 75%; height: 100%; background-color: #6366F1; border-radius: 10px;"></div>
+            </div>
+            <span style="margin-left: 10px;">75%</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- CODING ACTIVITY -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> 
   Coding Activity
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" />
 </h2>
 
 <div align="center">
@@ -160,43 +247,43 @@
 
 <!-- HACKATHON ACHIEVEMENTS -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="30" /> 
   Hackathon Achievements
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="30" />
 </h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50" height="50"/>
         <h3>Code-e-manipal</h3>
         <p><b>First Place Winner 🏆</b></p>
         <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
         <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
         <p><i>March 21-22, 2025</i></p>
-        <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/certificates/code-e-manipal.jpg" alt="Code-e-manipal Certificate" width="100%" />
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal.jpg-vTRsvHApQBHwYXprWIPf2e4yT5aZ45.jpeg" alt="Code-e-manipal Certificate" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" height="50"/>
         <h3>Code Seva Hackathon</h3>
         <p><b>Top 15 Teams 🌟</b></p>
         <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
         <p>Organized by Geek Room and Sahyog: Care of You</p>
         <p><i>March 1, 2025</i></p>
-        <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/certificates/code-seva.jpg" alt="Code Seva Certificate" width="100%" />
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20seva.jpg-SfxRltAn3Ns7YGDzvmfNyxJJbEQ3K9.jpeg" alt="Code Seva Certificate" width="100%" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" height="50"/>
         <h3>Code Kshetra 2.0</h3>
         <p><b>Selected</b> among 15000+ registrants</p>
         <p>India's biggest hackathon</p>
         <p><i>January 2024</i></p>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"/>
         <h3>Techthon 2025</h3>
         <p><b>Student Coordinator</b></p>
         <p>IIMT College of Science and Technology</p>
@@ -206,11 +293,59 @@
   </table>
 </div>
 
+<!-- PROJECTS SHOWCASE -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> 
+  Featured Projects
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" />
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 1</h3>
+        <div align="center">
+          <a href="https://github.com/Chirag-pandit/project1" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="Project 1"/>
+          </a>
+          <p>
+            <a href="https://github.com/Chirag-pandit/project1" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://project1-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p>A full-stack e-commerce platform built with Next.js, Node.js, and MongoDB</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2</h3>
+        <div align="center">
+          <a href="https://github.com/Chirag-pandit/project2" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="Project 2"/>
+          </a>
+          <p>
+            <a href="https://github.com/Chirag-pandit/project2" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://project2-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p>Real-time chat application with WebSocket integration and user authentication</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- GITHUB STATS -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
   GitHub Stats
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
 
 <div align="center">
@@ -228,11 +363,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag-pandit&theme=tokyo-night&hide_border=true&bg_color=1A1B27" width="100%">
 </div>
 
+<!-- 3D CONTRIBUTION CALENDAR -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" /> 
+  3D Contribution Calendar
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" />
+</h2>
+
+<div align="center">
+  <img src="https://github.com/Chirag-pandit/Chirag-pandit/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</div>
+
 <!-- SPOTIFY RECENTLY PLAYED -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="30" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" /> 
   Spotify Recently Played
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" />
 </h2>
 
 <div align="center">
@@ -241,11 +387,68 @@
   </a>
 </div>
 
+<!-- TIMELINE -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> 
+  My Journey
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" />
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
+        <b>2025</b>
+      </td>
+      <td>
+        Won 1st place in Code-e-manipal at Manipal University Jaipur
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
+        <b>2025</b>
+      </td>
+      <td>
+        Qualified in TOP 15 teams during Code Seva Hackathon at Microsoft office
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
+        <b>2024</b>
+      </td>
+      <td>
+        Selected among 15000+ registrants for Code Kshetra 2.0
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
+        <b>2023</b>
+      </td>
+      <td>
+        Started learning Full Stack Development
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
+        <b>2022</b>
+      </td>
+      <td>
+        Began my journey in programming with Python
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- CONNECT WITH ME -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" width="30" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> 
   Connect With Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" />
 </h2>
 
 <div align="center">
@@ -266,7 +469,7 @@
 <div align="center">
   <h3>Always open to interesting collaborations and opportunities</h3>
   <p>Feel free to reach out to me on any of these platforms!</p>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="200">
   <p><em>Let's connect and create something amazing together! 💻</em></p>
 </div>
 
@@ -277,31 +480,9 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
   <p>Made with ❤️ by Chirag Pandit</p>
   <p><em>Last updated: March 2025</em></p>
 </div>
 ```
-
-## Key Enhancements
-
-1. **Animated Snake Contribution Graph**: Added a GitHub contribution snake animation that slithers through your contribution grid.
-
-2. **Animated Emojis**: Replaced static emojis with animated Fluent Emojis for section headers and list items.
-
-3. **Improved Badge Styling**: Updated the GitHub stats badges with consistent styling and colors.
-
-4. **Spotify Integration**: Added a Spotify recently played widget to showcase your music taste.
-
-5. **Visitor Counter**: Added a visitor counter at the bottom of the page.
-
-6. **Inspirational Quote**: Added a random inspirational quote widget.
-
-7. **Wakatime Stats**: Added coding activity statistics.
-
-8. **Wave Footer**: Added a stylish wave footer using capsule-render.
-
-9. **Enhanced Visual Hierarchy**: Improved section headers with matching emoji pairs.
-
-10. **Consistent Color Scheme**: Used a consistent indigo/purple color scheme throughout.
 

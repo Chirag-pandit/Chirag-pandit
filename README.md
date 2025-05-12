@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" />
-</div>
+<h1 align="center">Chirag Pandit</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Pandit;Full+Stack+Developer+%7C+JavaScript+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
@@ -21,29 +19,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- ANIMATED GREETING -->
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-</h1>
-
 <!-- ABOUT ME -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">About Me</span>
+  About Me
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
 </h2>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p style="font-size: 16px; line-height: 1.6; color: #f8f8f8;">
+<p style="font-size: 16px; line-height: 1.6;">
   Hi there! I'm <b>Chirag Pandit</b>, an enthusiastic software developer with a passion for creating clean, efficient, and user-friendly applications. My journey in tech is driven by curiosity and the desire to solve real-world problems through code.
 </p>
 
-<ul style="font-size: 16px; line-height: 1.8; color: #f8f8f8;">
+<ul style="font-size: 16px; line-height: 1.8;">
   <li>
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> 
     I'm currently working on <b>Web Development Projects</b>
@@ -78,34 +67,34 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">
+        <h3>
           <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> 
           Interests
         </h3>
-        <p style="font-size: 16px; color: #f8f8f8;">Web Development, Data Structures & Algorithms, API Design</p>
+        <p>Web Development, Data Structures & Algorithms, API Design</p>
       </td>
       <td align="center" width="50%">
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">
+        <h3>
           <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="20" /> 
           Goal
         </h3>
-        <p style="font-size: 16px; color: #f8f8f8;">To become a proficient full-stack developer and contribute to open source</p>
+        <p>To become a proficient full-stack developer and contribute to open source</p>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">
+        <h3>
           <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="20" /> 
           Learning
         </h3>
-        <p style="font-size: 16px; color: #f8f8f8;">Java DSA, JavaScript Advanced Concepts, CI/CD</p>
+        <p>Java DSA, JavaScript Advanced Concepts, CI/CD</p>
       </td>
       <td align="center" width="50%">
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">
+        <h3>
           <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" /> 
           Soft Skills
         </h3>
-        <p style="font-size: 16px; color: #f8f8f8;">Leadership, Collaboration, Problem-solving, Curious Learner</p>
+        <p>Leadership, Collaboration, Problem-solving, Curious Learner</p>
       </td>
     </tr>
   </table>
@@ -118,7 +107,7 @@
 <!-- TECH STACK -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">Tech Stack</span>
+  Tech Stack
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
 
@@ -132,7 +121,7 @@
 </div>
 
 <details open>
-  <summary><h3 style="color: #6366F1; font-weight: 700; font-size: 22px; display: inline-block;">Languages</h3></summary>
+  <summary><h3>Languages</h3></summary>
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
     <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
@@ -145,7 +134,7 @@
 </details>
 
 <details open>
-  <summary><h3 style="color: #6366F1; font-weight: 700; font-size: 22px; display: inline-block;">Frameworks & Libraries</h3></summary>
+  <summary><h3>Frameworks & Libraries</h3></summary>
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
@@ -158,7 +147,7 @@
 </details>
 
 <details open>
-  <summary><h3 style="color: #6366F1; font-weight: 700; font-size: 22px; display: inline-block;">Tools & Technologies</h3></summary>
+  <summary><h3>Tools & Technologies</h3></summary>
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
@@ -179,7 +168,7 @@
 <!-- SKILL BARS -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">Skills Proficiency</span>
+  Skills Proficiency
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
 
@@ -187,58 +176,58 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center" style="color: #6366F1; font-weight: 700; font-size: 22px;">Frontend</h3>
-        <div align="center" style="font-size: 16px; color: #f8f8f8;">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
           JavaScript
-          <div style="display: flex; align-items: center; background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="width: 100%; background-color: #444; height: 20px; border-radius: 10px;">
+          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
+            <div style="background-color: #444; height: 20px; border-radius: 10px;">
               <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
             </div>
-            <span style="margin-left: 10px; font-weight: bold;">95%</span>
+            <span style="font-weight: bold;">95%</span>
           </div>
           <br>
           React.js
-          <div style="display: flex; align-items: center; background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="width: 100%; background-color: #444; height: 20px; border-radius: 10px;">
+          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
+            <div style="background-color: #444; height: 20px; border-radius: 10px;">
               <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
             </div>
-            <span style="margin-left: 10px; font-weight: bold;">90%</span>
+            <span style="font-weight: bold;">90%</span>
           </div>
           <br>
           Next.js
-          <div style="display: flex; align-items: center; background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="width: 100%; background-color: #444; height: 20px; border-radius: 10px;">
+          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
+            <div style="background-color: #444; height: 20px; border-radius: 10px;">
               <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
             </div>
-            <span style="margin-left: 10px; font-weight: bold;">85%</span>
+            <span style="font-weight: bold;">85%</span>
           </div>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center" style="color: #6366F1; font-weight: 700; font-size: 22px;">Backend</h3>
-        <div align="center" style="font-size: 16px; color: #f8f8f8;">
+        <h3 align="center">Backend</h3>
+        <div align="center">
           Node.js
-          <div style="display: flex; align-items: center; background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="width: 100%; background-color: #444; height: 20px; border-radius: 10px;">
+          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
+            <div style="background-color: #444; height: 20px; border-radius: 10px;">
               <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
             </div>
-            <span style="margin-left: 10px; font-weight: bold;">85%</span>
+            <span style="font-weight: bold;">85%</span>
           </div>
           <br>
           Express.js
-          <div style="display: flex; align-items: center; background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="width: 100%; background-color: #444; height: 20px; border-radius: 10px;">
+          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
+            <div style="background-color: #444; height: 20px; border-radius: 10px;">
               <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
             </div>
-            <span style="margin-left: 10px; font-weight: bold;">80%</span>
+            <span style="font-weight: bold;">80%</span>
           </div>
           <br>
           MongoDB
-          <div style="display: flex; align-items: center; background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="width: 100%; background-color: #444; height: 20px; border-radius: 10px;">
+          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
+            <div style="background-color: #444; height: 20px; border-radius: 10px;">
               <div style="width: 75%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
             </div>
-            <span style="margin-left: 10px; font-weight: bold;">75%</span>
+            <span style="font-weight: bold;">75%</span>
           </div>
         </div>
       </td>
@@ -253,7 +242,7 @@
 <!-- CODING ACTIVITY -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">Coding Activity</span>
+  Coding Activity
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" />
 </h2>
 
@@ -268,7 +257,7 @@
 <!-- HACKATHON ACHIEVEMENTS -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">Hackathon Achievements</span>
+  Hackathon Achievements
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="30" />
 </h2>
 
@@ -277,39 +266,39 @@
     <tr>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50" height="50"/>
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">Code-e-manipal</h3>
-        <p style="font-size: 16px; color: #f8f8f8;"><b>First Place Winner 🏆</b></p>
-        <p style="font-size: 16px; color: #f8f8f8;">Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
-        <p style="font-size: 16px; color: #f8f8f8;">Organized by LearnIT and IT Department in collaboration with Geekroom</p>
-        <p style="font-size: 16px; color: #f8f8f8;"><i>March 21-22, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal.jpg-vTRsvHApQBHwYXprWIPf2e4yT5aZ45.jpeg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);" />
+        <h3>Code-e-manipal</h3>
+        <p><b>First Place Winner 🏆</b></p>
+        <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
+        <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
+        <p><i>March 21-22, 2025</i></p>
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal.jpg-vTRsvHApQBHwYXprWIPf2e4yT5aZ45.jpeg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" height="50"/>
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">Code Seva Hackathon</h3>
-        <p style="font-size: 16px; color: #f8f8f8;"><b>Top 15 Teams 🌟</b></p>
-        <p style="font-size: 16px; color: #f8f8f8;">Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
-        <p style="font-size: 16px; color: #f8f8f8;">Organized by Geek Room and Sahyog: Care of You</p>
-        <p style="font-size: 16px; color: #f8f8f8;"><i>March 1, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20seva.jpg-SfxRltAn3Ns7YGDzvmfNyxJJbEQ3K9.jpeg" alt="Code Seva Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);" />
+        <h3>Code Seva Hackathon</h3>
+        <p><b>Top 15 Teams 🌟</b></p>
+        <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
+        <p>Organized by Geek Room and Sahyog: Care of You</p>
+        <p><i>March 1, 2025</i></p>
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20seva.jpg-SfxRltAn3Ns7YGDzvmfNyxJJbEQ3K9.jpeg" alt="Code Seva Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" height="50"/>
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">Code Kshetra 2.0</h3>
-        <p style="font-size: 16px; color: #f8f8f8;"><b>Participant</b> in India's biggest hackathon</p>
-        <p style="font-size: 16px; color: #f8f8f8;">Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
-        <p style="font-size: 16px; color: #f8f8f8;"><i>February 21-22, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20kshetra.jpg-qyqUMrUyXKdSxZd1ivPocEVwmHs92t.jpeg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);" />
+        <h3>Code Kshetra 2.0</h3>
+        <p><b>Participant</b> in India's biggest hackathon</p>
+        <p>Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
+        <p><i>February 21-22, 2025</i></p>
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20kshetra.jpg-qyqUMrUyXKdSxZd1ivPocEVwmHs92t.jpeg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"/>
-        <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">Code Nakshatra</h3>
-        <p style="font-size: 16px; color: #f8f8f8;"><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
-        <p style="font-size: 16px; color: #f8f8f8;">TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
-        <p style="font-size: 16px; color: #f8f8f8;"><i>April 3-4, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20nakshetra.jpg-ua1O4DXwwYjzDZGBXscvkVRExqndEV.jpeg" alt="Code Nakshatra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);" />
+        <h3>Code Nakshatra</h3>
+        <p><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
+        <p>TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
+        <p><i>April 3-4, 2025</i></p>
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20nakshetra.jpg-ua1O4DXwwYjzDZGBXscvkVRExqndEV.jpeg" alt="Code Nakshatra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
     </tr>
   </table>
@@ -322,7 +311,7 @@
 <!-- PROJECTS SHOWCASE -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">Featured Projects</span>
+  Featured Projects
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" />
 </h2>
 
@@ -330,10 +319,10 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center" style="color: #6366F1; font-weight: 700; font-size: 22px;">Project 1</h3>
+        <h3 align="center">Project 1</h3>
         <div align="center">
           <a href="https://github.com/Chirag-pandit/project1" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="Project 1" style="border-radius: 10px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);"/>
+            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="Project 1" style="border-radius: 10px; border: 2px solid #6366F1;"/>
           </a>
           <p>
             <a href="https://github.com/Chirag-pandit/project1" target="_blank">
@@ -343,14 +332,14 @@
               <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p style="font-size: 16px; color: #f8f8f8;">A full-stack e-commerce platform built with Next.js, Node.js, and MongoDB</p>
+          <p>A full-stack e-commerce platform built with Next.js, Node.js, and MongoDB</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center" style="color: #6366F1; font-weight: 700; font-size: 22px;">Project 2</h3>
+        <h3 align="center">Project 2</h3>
         <div align="center">
           <a href="https://github.com/Chirag-pandit/project2" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="Project 2" style="border-radius: 10px; border: 2px solid #6366F1; box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);"/>
+            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="Project 2" style="border-radius: 10px; border: 2px solid #6366F1;"/>
           </a>
           <p>
             <a href="https://github.com/Chirag-pandit/project2" target="_blank">
@@ -360,7 +349,7 @@
               <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p style="font-size: 16px; color: #f8f8f8;">Real-time chat application with WebSocket integration and user authentication</p>
+          <p>Real-time chat application with WebSocket integration and user authentication</p>
         </div>
       </td>
     </tr>
@@ -374,7 +363,7 @@
 <!-- GITHUB STATS -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">GitHub Stats</span>
+  GitHub Stats
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
 
@@ -396,7 +385,7 @@
 <!-- 3D CONTRIBUTION CALENDAR -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">3D Contribution Calendar</span>
+  3D Contribution Calendar
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" />
 </h2>
 
@@ -411,7 +400,7 @@
 <!-- SPOTIFY RECENTLY PLAYED -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">Spotify Recently Played</span>
+  Spotify Recently Played
   <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" />
 </h2>
 
@@ -428,7 +417,7 @@
 <!-- TIMELINE -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">My Journey</span>
+  My Journey
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" />
 </h2>
 
@@ -437,54 +426,54 @@
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b style="color: #6366F1; font-weight: 700; font-size: 18px;">2025 (April)</b>
+        <b>2025 (April)</b>
       </td>
-      <td style="font-size: 16px; color: #f8f8f8;">
+      <td>
         Participated in Code Nakshatra at TRINITY INSTITUTE Greater Noida
       </td>
     </tr>
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b style="color: #6366F1; font-weight: 700; font-size: 18px;">2025 (March)</b>
+        <b>2025 (March)</b>
       </td>
-      <td style="font-size: 16px; color: #f8f8f8;">
+      <td>
         Won 1st place in Code-e-manipal at Manipal University Jaipur
       </td>
     </tr>
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b style="color: #6366F1; font-weight: 700; font-size: 18px;">2025 (March)</b>
+        <b>2025 (March)</b>
       </td>
-      <td style="font-size: 16px; color: #f8f8f8;">
+      <td>
         Qualified in TOP 15 teams during Code Seva Hackathon at Microsoft office
       </td>
     </tr>
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b style="color: #6366F1; font-weight: 700; font-size: 18px;">2025 (February)</b>
+        <b>2025 (February)</b>
       </td>
-      <td style="font-size: 16px; color: #f8f8f8;">
+      <td>
         Participated in Code Kshetra 2.0 at Jagan Institute of Management Studies
       </td>
     </tr>
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b style="color: #6366F1; font-weight: 700; font-size: 18px;">2023</b>
+        <b>2023</b>
       </td>
-      <td style="font-size: 16px; color: #f8f8f8;">
+      <td>
         Started learning Full Stack Development
       </td>
     </tr>
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b style="color: #6366F1; font-weight: 700; font-size: 18px;">2022</b>
+        <b>2022</b>
       </td>
-      <td style="font-size: 16px; color: #f8f8f8;">
+      <td>
         Began my journey in programming with Python
       </td>
     </tr>
@@ -498,7 +487,7 @@
 <!-- CONNECT WITH ME -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> 
-  <span style="color: #6366F1; font-weight: 700; font-size: 28px;">Connect With Me</span>
+  Connect With Me
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" />
 </h2>
 
@@ -518,10 +507,10 @@
 </div>
 
 <div align="center">
-  <h3 style="color: #6366F1; font-weight: 700; font-size: 22px;">Always open to interesting collaborations and opportunities</h3>
-  <p style="font-size: 16px; color: #f8f8f8;">Feel free to reach out to me on any of these platforms!</p>
+  <h3>Always open to interesting collaborations and opportunities</h3>
+  <p>Feel free to reach out to me on any of these platforms!</p>
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="200">
-  <p style="font-size: 16px; color: #f8f8f8;"><em>Let's connect and create something amazing together! 💻</em></p>
+  <p><em>Let's connect and create something amazing together! 💻</em></p>
 </div>
 
 <div align="center">
@@ -536,11 +525,9 @@
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%">
-  <p style="font-size: 16px; color: #f8f8f8;">Made with ❤️ by Chirag Pandit</p>
-  <p style="font-size: 16px; color: #f8f8f8;"><em>Last updated: March 2025</em></p>
+  <p>Made with ❤️ by Chirag Pandit</p>
+  <p><em>Last updated: March 2025</em></p>
 </div>
 ```
-
-
 
 

@@ -1,4 +1,7 @@
-<h1 align="center">Chirag Pandit</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=CHIRAG%20PANDIT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">

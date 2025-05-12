@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/header-banner.png" alt="Header Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR3NXJ3OWF1OWF4ZnBxbWF6ZDdwbXBqcWN6YnJ0YmRyYjdqd2JpZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
 <h1 align="center">
@@ -13,10 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Chirag-pandit&color=6366F1&style=flat-square">
   <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/stars/Chirag-pandit?style=social"></a>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/wave-divider.svg" width="100%" height="50">
-</div>
 
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
@@ -59,10 +55,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/zigzag-divider.svg" width="100%" height="50">
-</div>
-
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
@@ -103,51 +95,29 @@
   </p>
 </details>
 
-<h3>My Skill Proficiency</h3>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-pandit&layout=compact&theme=tokyonight" alt="Top Languages" width="100%">
-    </td>
-    <td width="50%">
-      <p>JavaScript/TypeScript <br/>
-      <img src="https://progress-bar.dev/90/?width=400&color=F7DF1E" alt="JavaScript/TypeScript 90%"></p>
-      <p>React.js/Next.js <br/>
-      <img src="https://progress-bar.dev/85/?width=400&color=61DAFB" alt="React/Next.js 85%"></p>
-      <p>Python <br/>
-      <img src="https://progress-bar.dev/75/?width=400&color=3776AB" alt="Python 75%"></p>
-      <p>C/C++ <br/>
-      <img src="https://progress-bar.dev/80/?width=400&color=00599C" alt="C/C++ 80%"></p>
-      <p>Data Structures and Algorithms <br/>
-      <img src="https://progress-bar.dev/70/?width=400&color=4C566A" alt="DSA 70%"></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/dots-divider.svg" width="100%" height="50">
-</div>
-
 <!-- HACKATHON ACHIEVEMENTS -->
 ## 🏆 Hackathon Achievements
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <img src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-trophy-success-photo3ideastudio-flat-photo3ideastudio.png" width="50" height="50"/>
         <h3>Code-e-manipal</h3>
-        <p><b>First place</b> among 2500+ participants</p>
-        <p>Manipal University, Jaipur</p>
-        <p><i>April 2024</i></p>
+        <p><b>First Place Winner 🏆</b></p>
+        <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
+        <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
+        <p><i>March 21-22, 2025</i></p>
+        <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Code-e-manipal Certificate" width="100%" />
       </td>
-      <td align="center">
+      <td align="center" width="50%">
         <img src="https://img.icons8.com/color/48/000000/group-of-people.png" width="50" height="50"/>
-        <h3>Code Seva</h3>
-        <p><b>Top 15</b> out of 100+ teams</p>
-        <p>Team Leader of CODEBOTS</p>
-        <p><i>February 2024</i></p>
+        <h3>Code Seva Hackathon</h3>
+        <p><b>Top 15 Teams 🌟</b></p>
+        <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
+        <p>Organized by Geek Room and Sahyog: Care of You</p>
+        <p><i>March 1, 2025</i></p>
+        <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Code Seva Certificate" width="100%" />
       </td>
     </tr>
     <tr>
@@ -169,10 +139,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/wave-divider.svg" width="100%" height="50">
-</div>
-
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
@@ -189,10 +155,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag-pandit&theme=tokyo-night" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/zigzag-divider.svg" width="100%" height="50">
 </div>
 
 <!-- CONNECT WITH ME -->
@@ -216,22 +178,12 @@
 <div align="center">
   <h3>Always open to interesting collaborations and opportunities</h3>
   <p>Feel free to reach out to me on any of these platforms!</p>
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/handshake.gif" width="150px">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <p><em>Let's connect and create something amazing together! 💻</em></p>
 </div>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/dots-divider.svg" width="100%" height="50">
   <p>Made with ❤️ by Chirag Pandit</p>
-  <img src="https://raw.githubusercontent.com/Chirag-pandit/Chirag-pandit/main/assets/footer-banner.png" width="100%">
+  <p><em>Last updated: March 2025</em></p>
 </div>
-
-<!-- ADDITIONAL RESOURCES TO CREATE/ADD TO YOUR PROFILE -->
-<!--
-1. GitHub Profile Views Counter: https://github.com/antonkomarev/github-profile-views-counter
-2. GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
-3. GitHub Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
-4. GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy
-5. GitHub Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
-6. Readme Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
--->

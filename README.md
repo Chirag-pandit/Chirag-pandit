@@ -1,7 +1,9 @@
 <h1 align="center">Chirag Pandit</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Pandit;Full+Stack+Developer+%7C+JavaScript+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Pandit;Full+Stack+Developer+%7C+JavaScript+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -251,7 +253,37 @@
 </div>
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">Weekly Coding Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-pandit&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" alt="Top Languages" />
+      </td>
+      <td>
+        <h3 align="center">Coding Streaks</h3>
+        <img src="https://streak-stats.demolab.com/?user=Chirag-pandit&theme=radical&hide_border=true&background=1A1B27" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+</div>
+
+<!-- SPOTIFY RECENTLY PLAYED -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" /> 
+  Currently Vibing To
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" />
+</h2>
+
+<div align="center">
+  <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvxuwd2zfgptglamezdywojioi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+  <p>🎧 <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">Listen to my current favorite track</a></p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <!-- HACKATHON ACHIEVEMENTS -->
@@ -265,7 +297,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294018-1a7d1c2f-24da-4829-9b59-2cf72d41d1c1.gif" width="50" height="50"/>
         <h3>Code-e-manipal</h3>
         <p><b>First Place Winner 🏆</b></p>
         <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
@@ -274,7 +306,7 @@
         <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal.jpg-vTRsvHApQBHwYXprWIPf2e4yT5aZ45.jpeg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" height="50"/>
         <h3>Code Seva Hackathon</h3>
         <p><b>Top 15 Teams 🌟</b></p>
         <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
@@ -285,7 +317,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" height="50"/>
         <h3>Code Kshetra 2.0</h3>
         <p><b>Participant</b> in India's biggest hackathon</p>
         <p>Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
@@ -293,7 +325,7 @@
         <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20kshetra.jpg-qyqUMrUyXKdSxZd1ivPocEVwmHs92t.jpeg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="50" height="50"/>
         <h3>Code Nakshatra</h3>
         <p><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
         <p>TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
@@ -319,37 +351,71 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">AgriMarket WebApp</h3>
         <div align="center">
-          <a href="https://github.com/Chirag-pandit/project1" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="Project 1" style="border-radius: 10px; border: 2px solid #6366F1;"/>
+          <a href="https://github.com/Chirag-pandit/AgriMarket" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="AgriMarket WebApp" style="border-radius: 10px; border: 2px solid #6366F1;"/>
           </a>
           <p>
-            <a href="https://github.com/Chirag-pandit/project1" target="_blank">
+            <a href="https://github.com/Chirag-pandit/AgriMarket" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://project1-demo.vercel.app" target="_blank">
+            <a href="https://agri-market-demo.vercel.app" target="_blank">
               <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p>A full-stack e-commerce platform built with Next.js, Node.js, and MongoDB</p>
+          <p><b>HTML, CSS, React.js, TailwindCSS, Framer-motion</b></p>
+          <ul align="left">
+            <li>A web app designed to empower farmers by providing real-time news, weather forecasts, and crop market prices</li>
+            <li>Integrated image-upload-based analysis for personalized insights and API integration for real-time data</li>
+            <li>Enhanced accessibility and usability for users with limited technical knowledge</li>
+          </ul>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Project 2</h3>
+        <h3 align="center">NeuroNest</h3>
         <div align="center">
-          <a href="https://github.com/Chirag-pandit/project2" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="Project 2" style="border-radius: 10px; border: 2px solid #6366F1;"/>
+          <a href="https://github.com/Chirag-pandit/NeuroNest" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="NeuroNest" style="border-radius: 10px; border: 2px solid #6366F1;"/>
           </a>
           <p>
-            <a href="https://github.com/Chirag-pandit/project2" target="_blank">
+            <a href="https://github.com/Chirag-pandit/NeuroNest" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://project2-demo.vercel.app" target="_blank">
+            <a href="https://neuronest-demo.vercel.app" target="_blank">
               <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p>Real-time chat application with WebSocket integration and user authentication</p>
+          <p><b>Vite+React+ts, GSAP, Accertinity, Python</b></p>
+          <ul align="left">
+            <li>NeuroNest is an AI-powered app designed to assist dementia patients with face recognition and medication management</li>
+            <li>Built using React.js with Tailwind CSS and GSAP animations</li>
+            <li>Led UI/UX improvements for better navigation and information delivery</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">Elite Sports</h3>
+        <div align="center">
+          <a href="https://github.com/Chirag-pandit/EliteSports" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238200835-3ff8e308-8ddf-4322-9e4d-fa13bf38c6f6.gif" width="80%" alt="Elite Sports" style="border-radius: 10px; border: 2px solid #6366F1;"/>
+          </a>
+          <p>
+            <a href="https://github.com/Chirag-pandit/EliteSports" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://elite-sports-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><b>Vite+React.js, Tailwind CSS, Framer-motion</b></p>
+          <ul align="left" style="display: inline-block; text-align: left; max-width: 80%;">
+            <li>Created platform supporting athletes from low financial backgrounds</li>
+            <li>Implemented state management and API handling for real-time updates</li>
+            <li>Integrated Clerk and Razorpay for premium feature payments</li>
+          </ul>
         </div>
       </td>
     </tr>
@@ -391,23 +457,6 @@
 
 <div align="center">
   <img src="https://github.com/Chirag-pandit/Chirag-pandit/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- SPOTIFY RECENTLY PLAYED -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" /> 
-  Spotify Recently Played
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" />
-</h2>
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rvxuwd2zfgptglamezdywojioi&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvxuwd2zfgptglamezdywojioi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-  </a>
 </div>
 
 <div align="center">
@@ -495,11 +544,11 @@
   <a href="mailto:chiragpandit884@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/chirag-pandit-67201731" target="_blank">
+  <a href="https://www.linkedin.com/in/chirag-pandit-672017317" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/Chirag_2325" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.instagram.com/chiragpandittt?igsh=aXkxcmJyOHdtM2Jl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/Chirag-pandit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -526,8 +575,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%">
   <p>Made with ❤️ by Chirag Pandit</p>
-  <p><em>Last updated: March 2025</em></p>
+  <p><em>Last updated: May 2025</em></p>
 </div>
 ```
-
 

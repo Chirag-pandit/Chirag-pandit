@@ -181,33 +181,33 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Frontend</h3>
+        <h3 align="center">Frontend <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" /></h3>
         <p align="center">
-          JavaScript
+          <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" /> JavaScript
           <br>
           <img src="https://progress-bar.dev/95/?width=400&color=6366F1" alt="JavaScript 95%" />
           <br><br>
-          React.js
+          <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" /> React.js
           <br>
           <img src="https://progress-bar.dev/90/?width=400&color=6366F1" alt="React.js 90%" />
           <br><br>
-          Next.js
+          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Next.js
           <br>
           <img src="https://progress-bar.dev/85/?width=400&color=6366F1" alt="Next.js 85%" />
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Backend</h3>
+        <h3 align="center">Backend <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25" /></h3>
         <p align="center">
-          Node.js
+          <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25" /> Node.js
           <br>
           <img src="https://progress-bar.dev/85/?width=400&color=6366F1" alt="Node.js 85%" />
           <br><br>
-          Express.js
+          <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25" /> Express.js
           <br>
           <img src="https://progress-bar.dev/80/?width=400&color=6366F1" alt="Express.js 80%" />
           <br><br>
-          MongoDB
+          <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-a83c-4a0f-a6c4-33e7b7f6882a.gif" width="25" /> MongoDB
           <br>
           <img src="https://progress-bar.dev/75/?width=400&color=6366F1" alt="MongoDB 75%" />
         </p>
@@ -287,9 +287,13 @@
       </td>
     </tr>
   </table>
-  <div style="margin-top: 15px; background-color: rgba(30, 215, 96, 0.1); padding: 15px; border-radius: 10px; max-width: 500px;">
-    <blockquote style="font-style: italic; color: #ccc; font-size: 16px; margin: 0;">"Music is the soundtrack of your life. It's the rhythm in your code and the melody in your algorithms."</blockquote>
-    <p style="text-align: right; color: #999; margin-top: 10px;">— Chirag Pandit</p>
+  
+  <div style="margin-top: 25px; display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-HV4H5xV9yqT9jCsHLTYdsdMdJ8l4RB.jpeg" width="350" style="border-radius: 15px; border: 3px solid #6366F1; box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.5);" />
+    <div style="margin-top: 15px; background-color: rgba(30, 215, 96, 0.1); padding: 20px; border-radius: 10px; max-width: 500px; border-left: 4px solid #6366F1;">
+      <blockquote style="font-style: italic; color: #ccc; font-size: 16px; margin: 0;">"Music is the soundtrack of your life. It's the rhythm in your code and the melody in your algorithms."</blockquote>
+      <p style="text-align: right; color: #999; margin-top: 10px;">— Chirag Pandit</p>
+    </div>
   </div>
 </div>
 

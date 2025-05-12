@@ -57,7 +57,7 @@
   </li>
   <li>
     <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="20" /> 
-    Fun fact: <b>The first programmer was a woman - Ada Lovelace</b>
+    Fun fact: <b>Koi fun fact nahi milega chu chap repo dekho</b>
   </li>
 </ul>
 

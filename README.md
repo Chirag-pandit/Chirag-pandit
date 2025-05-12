@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/followers/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
-  <a href="https://github.com/Chirag-pandit?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14+-style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
+ 
   <img src="https://komarev.com/ghpvc/?username=Chirag-pandit&style=for-the-badge&color=6366F1&labelColor=0D1117">
   <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/stars/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
 </p>

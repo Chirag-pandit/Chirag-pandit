@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=CHIRAG%20PANDIT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
 </div>
@@ -59,7 +60,7 @@
   </li>
   <li>
     <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="20" /> 
-    Fun fact: <b>Koi fun fact nahi milega chu chap repo dekho</b>
+    Fun fact: <b>I debug with the strategic application of coffee and persistence</b>
   </li>
 </ul>
 
@@ -246,7 +247,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 </div>
 
-<!-- SPOTIFY RECENTLY PLAYED -->
+<!-- SPOTIFY CURRENTLY PLAYING -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" /> 
   Currently Vibing To
@@ -254,10 +255,42 @@
 </h2>
 
 <div align="center">
-  <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvxuwd2zfgptglamezdywojioi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-  </a>
-  <p>🎧 <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">Listen to my current favorite track</a></p>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvxuwd2zfgptglamezdywojioi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+        </a>
+      </td>
+      <td align="center" style="padding-left: 15px;">
+        <h3>My Top Playlists 🎵</h3>
+        <p>
+          <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
+            <img src="https://img.shields.io/badge/Today's%20Top%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Top Hits" />
+          </a>
+        </p>
+        <p>
+          <a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd" target="_blank">
+            <img src="https://img.shields.io/badge/Chill%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Hits" />
+          </a>
+        </p>
+        <p>
+          <a href="https://open.spotify.com/playlist/37i9dQZF1DX6ziVCJnEm59" target="_blank">
+            <img src="https://img.shields.io/badge/Coding%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Coding Mode" />
+          </a>
+        </p>
+        <p>
+          <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">
+            <img src="https://img.shields.io/badge/Current%20Favorite-D946EF?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Current Favorite" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <div style="margin-top: 15px; background-color: rgba(30, 215, 96, 0.1); padding: 15px; border-radius: 10px; max-width: 500px;">
+    <blockquote style="font-style: italic; color: #ccc; font-size: 16px; margin: 0;">"Music is the soundtrack of your life. It's the rhythm in your code and the melody in your algorithms."</blockquote>
+    <p style="text-align: right; color: #999; margin-top: 10px;">— Chirag Pandit</p>
+  </div>
 </div>
 
 <div align="center">
@@ -534,8 +567,10 @@
 </div>
 
 <div align="center">
-  <h3>Always open to interesting collaborations and opportunities</h3>
-  <p>Feel free to reach out to me on any of these platforms!</p>
+  <div style="background: linear-gradient(to right, #6366F1, #A78BFA, #EC4899); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 600px;">
+    <h3 style="color: white; margin-bottom: 10px;">Always open to interesting collaborations and opportunities</h3>
+    <p style="color: white;">Feel free to reach out to me on any of these platforms!</p>
+  </div>
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="200">
   <p><em>Let's connect and create something amazing together! 💻</em></p>
 </div>

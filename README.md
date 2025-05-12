@@ -15,7 +15,6 @@
 
 <p align="center">
   <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/followers/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
- 
   <img src="https://komarev.com/ghpvc/?username=Chirag-pandit&style=for-the-badge&color=6366F1&labelColor=0D1117">
   <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/stars/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
 </p>
@@ -182,59 +181,35 @@
     <tr>
       <td width="50%">
         <h3 align="center">Frontend</h3>
-        <div align="center">
+        <p align="center">
           JavaScript
-          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="background-color: #444; height: 20px; border-radius: 10px;">
-              <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
-            </div>
-            <span style="font-weight: bold;">95%</span>
-          </div>
           <br>
+          <img src="https://progress-bar.dev/95/?width=400&color=6366F1" alt="JavaScript 95%" />
+          <br><br>
           React.js
-          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="background-color: #444; height: 20px; border-radius: 10px;">
-              <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
-            </div>
-            <span style="font-weight: bold;">90%</span>
-          </div>
           <br>
+          <img src="https://progress-bar.dev/90/?width=400&color=6366F1" alt="React.js 90%" />
+          <br><br>
           Next.js
-          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="background-color: #444; height: 20px; border-radius: 10px;">
-              <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
-            </div>
-            <span style="font-weight: bold;">85%</span>
-          </div>
-        </div>
+          <br>
+          <img src="https://progress-bar.dev/85/?width=400&color=6366F1" alt="Next.js 85%" />
+        </p>
       </td>
       <td width="50%">
         <h3 align="center">Backend</h3>
-        <div align="center">
+        <p align="center">
           Node.js
-          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="background-color: #444; height: 20px; border-radius: 10px;">
-              <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
-            </div>
-            <span style="font-weight: bold;">85%</span>
-          </div>
           <br>
+          <img src="https://progress-bar.dev/85/?width=400&color=6366F1" alt="Node.js 85%" />
+          <br><br>
           Express.js
-          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="background-color: #444; height: 20px; border-radius: 10px;">
-              <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
-            </div>
-            <span style="font-weight: bold;">80%</span>
-          </div>
           <br>
+          <img src="https://progress-bar.dev/80/?width=400&color=6366F1" alt="Express.js 80%" />
+          <br><br>
           MongoDB
-          <div style="background-color: #2d2d2d; padding: 5px; border-radius: 10px; margin: 5px 0;">
-            <div style="background-color: #444; height: 20px; border-radius: 10px;">
-              <div style="width: 75%; height: 100%; background: linear-gradient(90deg, #6366F1, #8B5CF6); border-radius: 10px;"></div>
-            </div>
-            <span style="font-weight: bold;">75%</span>
-          </div>
-        </div>
+          <br>
+          <img src="https://progress-bar.dev/75/?width=400&color=6366F1" alt="MongoDB 75%" />
+        </p>
       </td>
     </tr>
   </table>

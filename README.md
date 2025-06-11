@@ -1,596 +1,358 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=CHIRAG%20PANDIT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+  <!-- Animated Header with Gradient Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=CHIRAG%20PANDIT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50&descSize=24" width="100%" />
 </div>
 
-
+<!-- Animated Typing Intro -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Pandit;Full+Stack+Developer+%7C+JavaScript+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7E3AF2&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Pandit;Full+Stack+Developer+%7C+JavaScript+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor;Turning+ideas+into+reality+through+code" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- Floating Astronaut Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" />
 </div>
 
+<!-- Stats Badges with Hover Effects -->
 <p align="center">
-  <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/followers/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
-  <img src="https://komarev.com/ghpvc/?username=Chirag-pandit&style=for-the-badge&color=6366F1&labelColor=0D1117">
-  <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/github/stars/Chirag-pandit?style=for-the-badge&logo=github&labelColor=0D1117&color=6366F1"></a>
+  <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChirag-pandit&style=for-the-badge&logo=github&labelColor=0D1117&color=7E3AF2&hover_color=A855F7"></a>
+  <img src="https://komarev.com/ghpvc/?username=Chirag-pandit&style=for-the-badge&color=7E3AF2&labelColor=0D1117&label=PROFILE+VIEWS">
+  <a href="https://github.com/Chirag-pandit"><img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=stars&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChirag-pandit&style=for-the-badge&logo=github&labelColor=0D1117&color=7E3AF2&hover_color=A855F7"></a>
 </p>
 
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
-<!-- ABOUT ME -->
+<!-- About Me Section with Floating Animation -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> 
-  About Me
+  <span style="background: linear-gradient(90deg, #7E3AF2, #A855F7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">About Me</span>
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- Floating Coding Animation -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(126, 58, 242, 0.3);">
 
-<p style="font-size: 16px; line-height: 1.6;">
-  Hi there! I'm <b>Chirag Pandit</b>, an enthusiastic software developer with a passion for creating clean, efficient, and user-friendly applications. My journey in tech is driven by curiosity and the desire to solve real-world problems through code.
-</p>
+<div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; backdrop-filter: blur(5px); border-left: 4px solid #7E3AF2;">
+  <p style="font-size: 16px; line-height: 1.6; color: #E2E8F0;">
+    Hi there! I'm <b style="color: #A855F7;">Chirag Pandit</b>, a passionate software developer with expertise in building modern web applications. I specialize in JavaScript ecosystems and love creating intuitive user experiences with clean, efficient code.
+  </p>
 
-<ul style="font-size: 16px; line-height: 1.8;">
-  <li>
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> 
-    I'm currently working on <b>Web Development Projects</b>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="20" /> 
-    I'm currently learning <b>Java DSA, JavaScript Advanced Concepts, CI/CD</b>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="20" /> 
-    I'm looking to collaborate on <b>Backend Coding</b>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/74038190/216121986-347a3a9e-77d1-4420-bd89-9b6bfa3a1f50.png" width="20" /> 
-    Ask me about <b>React, JavaScript, Next.js, Node.js</b>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" /> 
-    How to reach me: <b>chiragpandit884@gmail.com</b>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="20" /> 
-    Fun fact: <b>I debug with the strategic application of coffee and persistence</b>
-  </li>
-</ul>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <ul style="font-size: 16px; line-height: 1.8; color: #CBD5E1;">
+    <li>
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> 
+      Currently working on <b style="color: #A855F7;">Next.js 14 projects with advanced animations</b>
+    </li>
+    <li>
+      <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="20" /> 
+      Deep diving into <b style="color: #A855F7;">Web Performance Optimization and Web3</b>
+    </li>
+    <li>
+      <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="20" /> 
+      Open to collaborate on <b style="color: #A855F7;">innovative open-source projects</b>
+    </li>
+    <li>
+      <img src="https://user-images.githubusercontent.com/74038190/216121986-347a3a9e-77d1-4420-bd89-9b6bfa3a1f50.png" width="20" /> 
+      Ask me about <b style="color: #A855F7;">React, Next.js, or JavaScript performance</b>
+    </li>
+    <li>
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" /> 
+      Reach me at <b style="color: #A855F7;">chiragpandit884@gmail.com</b>
+    </li>
+    <li>
+      <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="20" /> 
+      Fun fact: <b style="color: #A855F7;">I can solve a Rubik's cube while debugging code!</b>
+    </li>
+  </ul>
 </div>
 
-<div align="center">
+<!-- Animated Quote -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" alt="Random Dev Quote" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(126, 58, 242, 0.2);" />
+</div>
+
+<!-- Skills Grid with Hover Effects -->
+<div align="center" style="margin-top: 40px; background: rgba(30, 41, 59, 0.3); padding: 20px; border-radius: 15px; backdrop-filter: blur(5px);">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>
-          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> 
-          Interests
-        </h3>
-        <p>Web Development, Data Structures & Algorithms, API Design</p>
+      <td align="center" width="50%" style="transition: all 0.3s ease;">
+        <div style="background: rgba(30, 41, 59, 0.5); padding: 15px; border-radius: 10px; height: 100%; transition: all 0.3s ease; border-left: 3px solid #7E3AF2;">
+          <h3 style="color: #A855F7;">
+            <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> 
+            Interests
+          </h3>
+          <p style="color: #CBD5E1;">Web Development, Animation Libraries, API Design, Web Accessibility</p>
+        </div>
       </td>
-      <td align="center" width="50%">
-        <h3>
-          <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="20" /> 
-          Goal
-        </h3>
-        <p>To become a proficient full-stack developer and contribute to open source</p>
+      <td align="center" width="50%" style="transition: all 0.3s ease;">
+        <div style="background: rgba(30, 41, 59, 0.5); padding: 15px; border-radius: 10px; height: 100%; transition: all 0.3s ease; border-left: 3px solid #7E3AF2;">
+          <h3 style="color: #A855F7;">
+            <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="20" /> 
+            Goal
+          </h3>
+          <p style="color: #CBD5E1;">To build performant, accessible web applications that solve real problems</p>
+        </div>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <h3>
-          <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="20" /> 
-          Learning
-        </h3>
-        <p>Java DSA, JavaScript Advanced Concepts, CI/CD</p>
+      <td align="center" width="50%" style="transition: all 0.3s ease;">
+        <div style="background: rgba(30, 41, 59, 0.5); padding: 15px; border-radius: 10px; height: 100%; transition: all 0.3s ease; border-left: 3px solid #7E3AF2;">
+          <h3 style="color: #A855F7;">
+            <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="20" /> 
+            Learning
+          </h3>
+          <p style="color: #CBD5E1;">Advanced TypeScript, WebGL, Rust, and System Design</p>
+        </div>
       </td>
-      <td align="center" width="50%">
-        <h3>
-          <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" /> 
-          Soft Skills
-        </h3>
-        <p>Leadership, Collaboration, Problem-solving, Curious Learner</p>
+      <td align="center" width="50%" style="transition: all 0.3s ease;">
+        <div style="background: rgba(30, 41, 59, 0.5); padding: 15px; border-radius: 10px; height: 100%; transition: all 0.3s ease; border-left: 3px solid #7E3AF2;">
+          <h3 style="color: #A855F7;">
+            <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20" /> 
+            Soft Skills
+          </h3>
+          <p style="color: #CBD5E1;">Mentoring, Technical Writing, Public Speaking, UX Thinking</p>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
-<!-- TECH STACK -->
+<!-- Tech Stack Section with Floating Icons -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
-  Tech Stack
+  <span style="background: linear-gradient(90deg, #7E3AF2, #A855F7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Tech Stack</span>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-a83c-4a0f-a6c4-33e7b7f6882a.gif" width="100">
-</div>
-
-<details open>
-  <summary><h3>Languages</h3></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  </p>
-</details>
-
-<details open>
-  <summary><h3>Frameworks & Libraries</h3></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
-  </p>
-</details>
-
-<details open>
-  <summary><h3>Tools & Technologies</h3></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-  </p>
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- SKILL BARS -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
-  Skills Proficiency
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Frontend <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" /></h3>
-        <p align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" /> JavaScript
-          <br>
-          <img src="https://progress-bar.dev/95/?width=400&color=6366F1" alt="JavaScript 95%" />
-          <br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" /> React.js
-          <br>
-          <img src="https://progress-bar.dev/90/?width=400&color=6366F1" alt="React.js 90%" />
-          <br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Next.js
-          <br>
-          <img src="https://progress-bar.dev/85/?width=400&color=6366F1" alt="Next.js 85%" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Backend <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25" /></h3>
-        <p align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25" /> Node.js
-          <br>
-          <img src="https://progress-bar.dev/85/?width=400&color=6366F1" alt="Node.js 85%" />
-          <br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25" /> Express.js
-          <br>
-          <img src="https://progress-bar.dev/80/?width=400&color=6366F1" alt="Express.js 80%" />
-          <br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-a83c-4a0f-a6c4-33e7b7f6882a.gif" width="25" /> MongoDB
-          <br>
-          <img src="https://progress-bar.dev/75/?width=400&color=6366F1" alt="MongoDB 75%" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- CODING ACTIVITY -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> 
-  Coding Activity
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" />
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chiragpandit&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27&border_radius=10" alt="Wakatime Stats" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">Weekly Coding Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-pandit&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27" alt="Top Languages" />
-      </td>
-      <td>
-        <h3 align="center">Coding Streaks</h3>
-        <img src="https://streak-stats.demolab.com/?user=Chirag-pandit&theme=radical&hide_border=true&background=1A1B27" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
-</div>
-
-<!-- SPOTIFY CURRENTLY PLAYING -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" /> 
-  Currently Vibing To
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-ba76-85ff64e3a8ec.gif" width="30" />
-</h2>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvxuwd2zfgptglamezdywojioi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-        </a>
-      </td>
-      <td align="center" style="padding-left: 15px;">
-        <h3>My Top Playlists 🎵</h3>
-        <p>
-          <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
-            <img src="https://img.shields.io/badge/Today's%20Top%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Top Hits" />
-          </a>
-        </p>
-        <p>
-          <a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd" target="_blank">
-            <img src="https://img.shields.io/badge/Chill%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Hits" />
-          </a>
-        </p>
-        <p>
-          <a href="https://open.spotify.com/playlist/37i9dQZF1DX6ziVCJnEm59" target="_blank">
-            <img src="https://img.shields.io/badge/Coding%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Coding Mode" />
-          </a>
-        </p>
-        <p>
-          <a href="https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1?si=639c4ccdc55d4cef" target="_blank">
-            <img src="https://img.shields.io/badge/Current%20Favorite-D946EF?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Current Favorite" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <!-- Languages -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 15px; border-radius: 10px; min-width: 250px; backdrop-filter: blur(5px); border-top: 3px solid #7E3AF2;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">Languages</h3>
+    <p align="center">
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&hover_color=A855F7"></a>
+    </p>
+  </div>
   
-  <div style="margin-top: 25px; display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-HV4H5xV9yqT9jCsHLTYdsdMdJ8l4RB.jpeg" width="350" style="border-radius: 15px; border: 3px solid #6366F1; box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.5);" />
-    <div style="margin-top: 15px; background-color: rgba(30, 215, 96, 0.1); padding: 20px; border-radius: 10px; max-width: 500px; border-left: 4px solid #6366F1;">
-      <blockquote style="font-style: italic; color: #ccc; font-size: 16px; margin: 0;">"Music is the soundtrack of your life. It's the rhythm in your code and the melody in your algorithms."</blockquote>
-      <p style="text-align: right; color: #999; margin-top: 10px;">— Chirag Pandit</p>
-    </div>
+  <!-- Frameworks -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 15px; border-radius: 10px; min-width: 250px; backdrop-filter: blur(5px); border-top: 3px solid #7E3AF2;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">Frameworks</h3>
+    <p align="center">
+      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&hover_color=A855F7"></a>
+    </p>
+  </div>
+  
+  <!-- Tools -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 15px; border-radius: 10px; min-width: 250px; backdrop-filter: blur(5px); border-top: 3px solid #7E3AF2;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">Tools</h3>
+    <p align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&hover_color=A855F7"></a>
+      <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&hover_color=A855F7"></a>
+    </p>
   </div>
 </div>
 
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
-<!-- HACKATHON ACHIEVEMENTS -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="30" /> 
-  Hackathon Achievements
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="30" />
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
-        <h3>Code-e-manipal</h3>
-        <p><b>First Place Winner 🏆</b></p>
-        <p>Secured 1st position among 2500+ participants at Manipal University Jaipur</p>
-        <p>Organized by LearnIT and IT Department in collaboration with Geekroom</p>
-        <p><i>March 21-22, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20e%20manipal.jpg-vTRsvHApQBHwYXprWIPf2e4yT5aZ45.jpeg" alt="Code-e-manipal Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" height="50"/>
-        <h3>Code Seva Hackathon</h3>
-        <p><b>Top 15 Teams 🌟</b></p>
-        <p>Qualified in TOP 15 teams during the offline round at Microsoft office, Gurugram</p>
-        <p>Organized by Geek Room and Sahyog: Care of You</p>
-        <p><i>March 1, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20seva.jpg-SfxRltAn3Ns7YGDzvmfNyxJJbEQ3K9.jpeg" alt="Code Seva Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
-        <h3>Code Kshetra 2.0</h3>
-        <p><b>Participant</b> in India's biggest hackathon</p>
-        <p>Organized by Jagan Institute of Management Studies, Sector-5, Rohini</p>
-        <p><i>February 21-22, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20kshetra.jpg-qyqUMrUyXKdSxZd1ivPocEVwmHs92t.jpeg" alt="Code Kshetra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="50" height="50"/>
-        <h3>Code Nakshatra</h3>
-        <p><b>Participant</b> in hackathon organized by CODE RANGERS CLUB</p>
-        <p>TRINITY INSTITUTE Greater Noida in collaboration with GEEK ROOM</p>
-        <p><i>April 3-4, 2025</i></p>
-        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/code%20nakshetra.jpg-ua1O4DXwwYjzDZGBXscvkVRExqndEV.jpeg" alt="Code Nakshatra Certificate" width="100%" style="border-radius: 10px; border: 2px solid #6366F1;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- PROJECTS SHOWCASE -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> 
-  Featured Projects
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" />
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AgriMarket WebApp</h3>
-        <div align="center">
-          <a href="https://github.com/Chirag-pandit/AgriMarket" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="AgriMarket WebApp" style="border-radius: 10px; border: 2px solid #6366F1;"/>
-          </a>
-          <p>
-            <a href="https://github.com/Chirag-pandit/AgriMarket" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://agri-market-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><b>HTML, CSS, React.js, TailwindCSS, Framer-motion</b></p>
-          <ul align="left">
-            <li>A web app designed to empower farmers by providing real-time news, weather forecasts, and crop market prices</li>
-            <li>Integrated image-upload-based analysis for personalized insights and API integration for real-time data</li>
-            <li>Enhanced accessibility and usability for users with limited technical knowledge</li>
-          </ul>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">NeuroNest</h3>
-        <div align="center">
-          <a href="https://github.com/Chirag-pandit/NeuroNest" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="NeuroNest" style="border-radius: 10px; border: 2px solid #6366F1;"/>
-          </a>
-          <p>
-            <a href="https://github.com/Chirag-pandit/NeuroNest" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://neuronest-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><b>Vite+React+ts, GSAP, Accertinity, Python</b></p>
-          <ul align="left">
-            <li>NeuroNest is an AI-powered app designed to assist dementia patients with face recognition and medication management</li>
-            <li>Built using React.js with Tailwind CSS and GSAP animations</li>
-            <li>Led UI/UX improvements for better navigation and information delivery</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <h3 align="center">Elite Sports</h3>
-        <div align="center">
-          <a href="https://github.com/Chirag-pandit/EliteSports" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200835-3ff8e308-8ddf-4322-9e4d-fa13bf38c6f6.gif" width="80%" alt="Elite Sports" style="border-radius: 10px; border: 2px solid #6366F1;"/>
-          </a>
-          <p>
-            <a href="https://github.com/Chirag-pandit/EliteSports" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://elite-sports-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><b>Vite+React.js, Tailwind CSS, Framer-motion</b></p>
-          <ul align="left" style="display: inline-block; text-align: left; max-width: 80%;">
-            <li>Created platform supporting athletes from low financial backgrounds</li>
-            <li>Implemented state management and API handling for real-time updates</li>
-            <li>Integrated Clerk and Razorpay for premium feature payments</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- GITHUB STATS -->
+<!-- Skills Proficiency with Animated Bars -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
-  GitHub Stats
+  <span style="background: linear-gradient(90deg, #7E3AF2, #A855F7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Skills Proficiency</span>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
 
-<div align="center">
-  <a href="https://github.com/Chirag-pandit">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chirag-pandit&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&border_radius=10" />
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-pandit&theme=radical&hide_border=true&background=1A1B27&border_radius=10" />
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
+  <!-- Frontend Skills -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; min-width: 300px; backdrop-filter: blur(5px); border-left: 4px solid #7E3AF2;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" /> 
+      Frontend
+    </h3>
+    <p style="color: #CBD5E1;">
+      <span style="display: flex; justify-content: space-between;">
+        <span>JavaScript</span>
+        <span>95%</span>
+      </span>
+      <div style="background: rgba(30, 41, 59, 0.8); height: 10px; border-radius: 5px; margin: 5px 0 15px 0;">
+        <div style="background: linear-gradient(90deg, #7E3AF2, #A855F7); width: 95%; height: 100%; border-radius: 5px; animation: progress 1.5s ease-in-out;"></div>
+      </div>
+      
+      <span style="display: flex; justify-content: space-between;">
+        <span>React.js</span>
+        <span>90%</span>
+      </span>
+      <div style="background: rgba(30, 41, 59, 0.8); height: 10px; border-radius: 5px; margin: 5px 0 15px 0;">
+        <div style="background: linear-gradient(90deg, #7E3AF2, #A855F7); width: 90%; height: 100%; border-radius: 5px; animation: progress 1.5s ease-in-out;"></div>
+      </div>
+      
+      <span style="display: flex; justify-content: space-between;">
+        <span>Next.js</span>
+        <span>85%</span>
+      </span>
+      <div style="background: rgba(30, 41, 59, 0.8); height: 10px; border-radius: 5px; margin: 5px 0 15px 0;">
+        <div style="background: linear-gradient(90deg, #7E3AF2, #A855F7); width: 85%; height: 100%; border-radius: 5px; animation: progress 1.5s ease-in-out;"></div>
+      </div>
+    </p>
+  </div>
+  
+  <!-- Backend Skills -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; min-width: 300px; backdrop-filter: blur(5px); border-left: 4px solid #7E3AF2;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25" /> 
+      Backend
+    </h3>
+    <p style="color: #CBD5E1;">
+      <span style="display: flex; justify-content: space-between;">
+        <span>Node.js</span>
+        <span>85%</span>
+      </span>
+      <div style="background: rgba(30, 41, 59, 0.8); height: 10px; border-radius: 5px; margin: 5px 0 15px 0;">
+        <div style="background: linear-gradient(90deg, #7E3AF2, #A855F7); width: 85%; height: 100%; border-radius: 5px; animation: progress 1.5s ease-in-out;"></div>
+      </div>
+      
+      <span style="display: flex; justify-content: space-between;">
+        <span>Express.js</span>
+        <span>80%</span>
+      </span>
+      <div style="background: rgba(30, 41, 59, 0.8); height: 10px; border-radius: 5px; margin: 5px 0 15px 0;">
+        <div style="background: linear-gradient(90deg, #7E3AF2, #A855F7); width: 80%; height: 100%; border-radius: 5px; animation: progress 1.5s ease-in-out;"></div>
+      </div>
+      
+      <span style="display: flex; justify-content: space-between;">
+        <span>MongoDB</span>
+        <span>75%</span>
+      </span>
+      <div style="background: rgba(30, 41, 59, 0.8); height: 10px; border-radius: 5px; margin: 5px 0 15px 0;">
+        <div style="background: linear-gradient(90deg, #7E3AF2, #A855F7); width: 75%; height: 100%; border-radius: 5px; animation: progress 1.5s ease-in-out;"></div>
+      </div>
+    </p>
+  </div>
 </div>
 
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chirag-pandit&theme=radical&column=7&no-frame=true&margin-w=15" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag-pandit&theme=redical&hide_border=true&bg_color=1A1B27" width="100%">
-</div>
-
-<!-- 3D CONTRIBUTION CALENDAR -->
+<!-- GitHub Stats Section with Glow Effect -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" /> 
-  3D Contribution Calendar
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> 
+  <span style="background: linear-gradient(90deg, #7E3AF2, #A855F7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GitHub Stats</span>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 </h2>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <!-- Stats Cards -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; min-width: 300px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2); transition: all 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chirag-pandit&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+  </div>
+  
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; min-width: 300px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2); transition: all 0.3s ease;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-pandit&theme=radical&hide_border=true&background=1A1B27&border_radius=10" alt="GitHub Streak" />
+  </div>
+</div>
+
+<!-- Top Languages -->
+<div align="center" style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 600px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-pandit&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27&border_radius=10" alt="Top Languages" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center" style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2);">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag-pandit&theme=redical&hide_border=true&bg_color=1A1B27&area=true&area_color=7E3AF2&color=A855F7" width="100%">
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center" style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2);">
   <img src="https://github.com/Chirag-pandit/Chirag-pandit/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
 
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
-<!-- TIMELINE -->
+<!-- Projects Showcase with Hover Effects -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> 
-  My Journey
+  <span style="background: linear-gradient(90deg, #7E3AF2, #A855F7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured Projects</span>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" />
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b>2025 (April)</b>
-      </td>
-      <td>
-        Participated in Code Nakshatra at TRINITY INSTITUTE Greater Noida
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b>2025 (March)</b>
-      </td>
-      <td>
-        Won 1st place in Code-e-manipal at Manipal University Jaipur
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b>2025 (March)</b>
-      </td>
-      <td>
-        Qualified in TOP 15 teams during Code Seva Hackathon at Microsoft office
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b>2025 (February)</b>
-      </td>
-      <td>
-        Participated in Code Kshetra 2.0 at Jagan Institute of Management Studies
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b>2023</b>
-      </td>
-      <td>
-        Started learning Full Stack Development
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
-        <b>2022</b>
-      </td>
-      <td>
-        Began my journey in programming with Python
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- CONNECT WITH ME -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" /> 
-  Connect With Me
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30" />
-</h2>
-
-<div align="center">
-  <a href="mailto:chiragpandit884@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/chirag-pandit-672017317" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/chiragpandittt?igsh=aXkxcmJyOHdtM2Jl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Chirag-pandit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<div align="center">
-  <div style="background: linear-gradient(to right, #6366F1, #A78BFA, #EC4899); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 600px;">
-    <h3 style="color: white; margin-bottom: 10px;">Always open to interesting collaborations and opportunities</h3>
-    <p style="color: white;">Feel free to reach out to me on any of these platforms!</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
+  <!-- Project 1 -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; max-width: 400px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2); transition: all 0.3s ease;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">AgriMarket WebApp</h3>
+    <div align="center">
+      <a href="https://github.com/Chirag-pandit/AgriMarket" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b3cc-b9159fc3fee3.gif" width="100%" alt="AgriMarket WebApp" style="border-radius: 10px; border: 2px solid #7E3AF2; transition: all 0.3s ease;"/>
+      </a>
+      <p style="margin: 15px 0;">
+        <a href="https://github.com/Chirag-pandit/AgriMarket" target="_blank">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white&hover_color=A855F7"/>
+        </a>
+        <a href="https://agri-market-demo.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-7E3AF2?style=for-the-badge&logo=vercel&logoColor=white&hover_color=A855F7"/>
+        </a>
+      </p>
+      <p style="color: #A855F7;"><b>HTML, CSS, React.js, TailwindCSS, Framer-motion</b></p>
+      <ul style="color: #CBD5E1; text-align: left; padding-left: 20px;">
+        <li>Empowers farmers with real-time news, weather, and crop prices</li>
+        <li>Image-upload analysis for personalized insights</li>
+        <li>Optimized for users with limited technical knowledge</li>
+      </ul>
+    </div>
   </div>
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="200">
-  <p><em>Let's connect and create something amazing together! 💻</em></p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Chirag-pandit/count.svg" alt="Visitor Count" />
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%">
-  <p>Made with ❤️ by Chirag Pandit</p>
-  <p><em>Last updated: May 2025</em></p>
-</div>
+  
+  <!-- Project 2 -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; max-width: 400px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2); transition: all 0.3s ease;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">NeuroNest</h3>
+    <div align="center">
+      <a href="https://github.com/Chirag-pandit/NeuroNest" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/238200837-de5072ef-dfbf-465e-9414-732247891458.gif" width="100%" alt="NeuroNest" style="border-radius: 10px; border: 2px solid #7E3AF2; transition: all 0.3s ease;"/>
+      </a>
+      <p style="margin: 15px 0;">
+        <a href="https://github.com/Chirag-pandit/NeuroNest" target="_blank">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white&hover_color=A855F7"/>
+        </a>
+        <a href="https://neuronest-demo.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-7E3AF2?style=for-the-badge&logo=vercel&logoColor=white&hover_color=A855F7"/>
+        </a>
+      </p>
+      <p style="color: #A855F7;"><b>Vite+React+ts, GSAP, Accertinity, Python</b></p>
+      <ul style="color: #CBD5E1; text-align: left; padding-left: 20px;">
+        <li>AI-powered app for dementia patients</li>
+        <li>Face recognition and medication management</li>
+        <li>Enhanced UI/UX for better navigation</li>
+      </ul>
+    </div>
+  </div>
+  
+  <!-- Project 3 -->
+  <div style="background: rgba(30, 41, 59, 0.5); padding: 20px; border-radius: 15px; max-width: 400px; backdrop-filter: blur(5px); border: 1px solid rgba(126, 58, 242, 0.3); box-shadow: 0 0 20px rgba(126, 58, 242, 0.2); transition: all 0.3s ease;">
+    <h3 align="center" style="color: #A855F7; margin-top: 0;">Elite Sports</h3>
+    <div align="center">
+      <a href="https://github.com/Chirag-pandit/El

@@ -24,17 +24,20 @@
           I combine technical skills with creative problem-solving to deliver exceptional user experiences.
         </p>
         
-        <div style="margin-top: 25px;">
-          <h4 style="color: #D44D5C; margin-bottom: 15px;">✨ Quick Facts</h4>
-          <ul style="color: #5E2B41; font-size: 14px; line-height: 1.8;">
-            <li>🔭 Currently working on AI-powered web solutions</li>
-            <li>🌱 Learning advanced Java DSA & system design</li>
-            <li>💡 3+ hackathon wins including Code-e-manipal</li>
-            <li>🎯 Goal: Master full-stack architecture</li>
-          </ul>
-        </div>
-      </div>
-    </td>
+<div style="margin-top: 25px;">
+  <h4 style="color: #D44D5C; margin-bottom: 15px;">✨ Quick Facts</h4>
+  <ul style="color: #5E2B41; font-size: 14px; line-height: 1.8;">
+    <li>🔭 Currently working on AI-powered web solutions</li>
+    <li>🌱 Learning advanced Java DSA & system design</li>
+    <li>💡 3+ hackathon wins including Code-e-manipal</li>
+    <li>🎯 Goal: Master full-stack architecture</li>
+  </ul>
+</div>
+</div>
+</td>
+<td width="40%">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(255,107,140,0.3);" />
+</td>
     <td width="40%">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(255,107,140,0.3);" />
     </td>

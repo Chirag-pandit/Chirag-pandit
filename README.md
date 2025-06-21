@@ -200,39 +200,100 @@
           <h3 style="color: white; text-align: center; margin-bottom: 25px;">
             <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
             Frontend Mastery
-          </h3>
-          
-          <div style="margin-bottom: 20px;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-              <span style="color: #ffd93d; font-weight: bold;">JavaScript</span>
-              <span style="color: #ffffff;">95%</span>
-            </div>
-            <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
-              <div style="background: linear-gradient(90deg, #ffd93d, #ff6b6b); width: 95%; height: 12px; border-radius: 10px; animation: slideInLeft 2s ease-out;"></div>
-            </div>
-          </div>
-          
-          <div style="margin-bottom: 20px;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-              <span style="color: #4ecdc4; font-weight: bold;">React.js</span>
-              <span style="color: #ffffff;">90%</span>
-            </div>
-            <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
-              <div style="background: linear-gradient(90deg, #4ecdc4, #45b7d1); width: 90%; height: 12px; border-radius: 10px; animation: slideInLeft 2.2s ease-out;"></div>
-            </div>
-          </div>
-          
-          <div style="margin-bottom: 20px;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-              <span style="color: #96ceb4; font-weight: bold;">Next.js</span>
-              <span style="color: #ffffff;">85%</span>
-            </div>
-            <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
-              <div style="background: linear-gradient(90deg, #96ceb4, #ffeaa7); width: 85%; height: 12px; border-radius: 10px; animation: slideInLeft 2.4s ease-out;"></div>
-            </div>
-          </div>
+          <table>
+<tr>
+  <td width="50%" style="padding: 20px;">
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
+      <h3 style="color: white; text-align: center; margin-bottom: 25px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
+        Frontend Mastery
+      </h3>
+      
+      <div style="margin-bottom: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #ffd93d; font-weight: bold;">JavaScript</span>
+          <span style="color: #ffffff;">95%</span>
         </div>
-      </td>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #ffd93d, #ff6b6b); width: 95%; height: 12px; border-radius: 10px;"></div>
+        </div>
+      </div>
+      
+      <div style="margin-bottom: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #4ecdc4; font-weight: bold;">React.js</span>
+          <span style="color: #ffffff;">90%</span>
+        </div>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #4ecdc4, #45b7d1); width: 90%; height: 12px; border-radius: 10px;"></div>
+        </div>
+      </div>
+      
+      <div style="margin-bottom: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #96ceb4; font-weight: bold;">Next.js</span>
+          <span style="color: #ffffff;">85%</span>
+        </div>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #96ceb4, #ffeaa7); width: 85%; height: 12px; border-radius: 10px;"></div>
+        </div>
+      </div>
+    </div>
+  </td>
+  
+  <td width="50%" style="padding: 20px;">
+    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
+      <h3 style="color: white; text-align: center; margin-bottom: 25px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" />
+        Backend Expertise
+      </h3>
+      
+      <div style="margin-bottom: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #74b9ff; font-weight: bold;">Node.js</span>
+          <span style="color: #ffffff;">85%</span>
+        </div>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #74b9ff, #0984e3); width: 85%; height: 12px; border-radius: 10px;"></div>
+        </div>
+      </div>
+      
+      <div style="margin-bottom: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #fd79a8; font-weight: bold;">Express.js</span>
+          <span style="color: #ffffff;">80%</span>
+        </div>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #fd79a8, #e84393); width: 80%; height: 12px; border-radius: 10px;"></div>
+        </div>
+      </div>
+      
+      <div style="margin-bottom: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #55a3ff; font-weight: bold;">MongoDB</span>
+          <span style="color: #ffffff;">75%</span>
+        </div>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #55a3ff, #3742fa); width: 75%; height: 12px; border-radius: 10px;"></div>
+        </div>
+      </div>
+    </div>
+  </td>
+</tr>
+</table>
+
+<style>
+  @keyframes slideInLeft {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+</style>
       
       <td width="50%" style="padding: 20px;">
         <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">

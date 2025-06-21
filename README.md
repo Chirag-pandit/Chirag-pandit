@@ -207,6 +207,15 @@
       <h3 style="color: white; text-align: center; margin-bottom: 25px;">
         <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
         Frontend Mastery
+      
+      
+      <table>
+<tr>
+  <td width="50%" style="padding: 20px;">
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
+      <h3 style="color: white; text-align: center; margin-bottom: 25px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
+        Frontend Mastery
       </h3>
       
       <div style="margin-bottom: 20px;">
@@ -246,7 +255,7 @@
       <h3 style="color: white; text-align: center; margin-bottom: 25px;">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" />
         Backend Expertise
-      </h3>
+      
       
       <div style="margin-bottom: 20px;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
@@ -280,20 +289,7 @@
     </div>
   </td>
 </tr>
-</table>
 
-<style>
-  @keyframes slideInLeft {
-    from {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    to {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
       
       <td width="50%" style="padding: 20px;">
         <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">

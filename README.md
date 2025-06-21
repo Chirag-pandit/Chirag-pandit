@@ -42,19 +42,25 @@
           Hi there! I'm <b>Chirag Pandit</b>, a passionate software developer who loves crafting elegant solutions to complex problems. My journey in tech is fueled by curiosity, creativity, and an unwavering commitment to excellence.
         </p>
         
-        <div style="margin-top: 25px;">
-          <h4 style="color: #ffd93d; margin-bottom: 15px;">🎯 What I'm Up To</h4>
-          <ul style="color: #f8f9fa; font-size: 14px; line-height: 1.8;">
-            <li>🔭 <b>Currently working on:</b> Innovative Web Development Projects</li>
-            <li>🌱 <b>Learning:</b> Java DSA, Advanced JavaScript, CI/CD Pipelines</li>
-            <li>👯 <b>Looking to collaborate on:</b> Backend Development & Open Source</li>
-            <li>💬 <b>Ask me about:</b> React, JavaScript, Next.js, Node.js</li>
-            <li>📫 <b>Reach me at:</b> chiragpandit884@gmail.com</li>
-            <li>⚡ <b>Fun fact:</b> I debug with coffee and turn bugs into features! ☕</li>
-          </ul>
-        </div>
+      
+  <tr>
+    <td width="60%">
+      <div style="margin-top: 25px;">
+        <h4 style="color: #ffd93d; margin-bottom: 15px;">🎯 What I'm Up To</h4>
+        <ul style="color: #f8f9fa; font-size: 14px; line-height: 1.8;">
+          <li>🔭 <b>Currently working on:</b> Innovative Web Development Projects</li>
+          <li>🌱 <b>Learning:</b> Java DSA, Advanced JavaScript, CI/CD Pipelines</li>
+          <li>👯 <b>Looking to collaborate on:</b> Backend Development & Open Source</li>
+          <li>💬 <b>Ask me about:</b> React, JavaScript, Next.js, Node.js</li>
+          <li>📫 <b>Reach me at:</b> chiragpandit884@gmail.com</li>
+          <li>⚡ <b>Fun fact:</b> I debug with coffee and turn bugs into features! ☕</li>
+        </ul>
       </div>
     </td>
+    <td width="40%">
+      <img align="center" alt="Coding Animation" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+    </td>
+  </tr>
     <td width="40%">
       <img align="center" alt="Coding Animation" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
     </td>
